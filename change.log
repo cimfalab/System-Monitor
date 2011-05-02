@@ -1,0 +1,31 @@
+System Monitor v2
+=============================
+* Changes
+
+Offline chart RGraph is used instead of Google Chart, so it does not require externalNetworkAccess.
+
+Refresh
+
+    Automatic refresh by interval
+    Manual refresh 
+
+Settings
+
+    Refresh Interval 
+
+
+System Monitor v1
+=============================
+
+Provides system information
+
+    Memory with graphical chart
+    Battery with progress bar
+    WRT (Web Runtime) Information
+    Display Information
+    Network Information
+        Cellular
+        Wi-Fi 
+    Device Information
+        Device
+        OS 
